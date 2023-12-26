@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccddc394-992e-400c-8e94-f351efc8bcc8" name="Changes" comment="p2">
-      <change afterPath="$PROJECT_DIR$/captures/img_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/captures/img_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/captures/img_18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/captures/img_19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/captures/img_20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/org/iir/customerservice/entities/CustomerProjection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/org/iir/inventoryservice/entities/ProductProjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/entities/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/entities/ProductItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/enums/orderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/repositories/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/repositories/ProductItemRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
         <option value="Interface" />
       </list>
@@ -78,6 +78,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.iir.orderservice.entities" />
+      <recent name="org.iir.orderservice.ennums" />
+    </key>
+  </component>
   <component name="RunManager" selected="Spring Boot.CustomerServiceApplication">
     <configuration name="rest-api_6 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_6.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
@@ -150,7 +156,7 @@
       <workItem from="1703338508898" duration="307000" />
       <workItem from="1703339196454" duration="15000" />
       <workItem from="1703493878704" duration="1248000" />
-      <workItem from="1703500039206" duration="14937000" />
+      <workItem from="1703500039206" duration="17522000" />
     </task>
     <task id="LOCAL-00001" summary="first1">
       <created>1702731332679</created>
