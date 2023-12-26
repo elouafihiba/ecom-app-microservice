@@ -37,8 +37,10 @@ Créer une application de e-commerce basée sur les micro services :
 # liste des customers
 - data base:
 ![sc](./captures/img_10.png)
-- la liste:
+- la liste sans projection:
 ![sc](./captures/img_11.png)
+- la liste avec projection:
+![sc](./captures/img_20.png)
 - la recherche d'un customer par id:
 ![sc](./captures/img_12.png)
 
@@ -46,7 +48,19 @@ Créer une application de e-commerce basée sur les micro services :
 ![sc](./captures/img_14.png)
 ![sc](./captures/img_13.png)
 ![sc](./captures/img_15.png)
-## 
+
+# Configuration dynamique de Inventory-service:
+
+![sc](./captures/img_17.png)
+
+![sc](./captures/img_16.png)
+- liste des produits sans projection:
+![sc](./captures/img_18.png)
+- liste des produits avec projection:
+![sc](./captures/img_19.png)
+
+
+
 
 
 
