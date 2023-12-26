@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccddc394-992e-400c-8e94-f351efc8bcc8" name="Changes" comment="p" />
+    <list default="true" id="ccddc394-992e-400c-8e94-f351efc8bcc8" name="Changes" comment="p1">
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/org/iir/inventoryservice/repositories/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-emsi/config-repo/inventory-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-emsi/config-repo/inventory-service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/org/iir/inventoryservice/InventoryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/org/iir/inventoryservice/InventoryServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +31,7 @@
         <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ecom-emsi/config-repo" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -138,7 +144,7 @@
       <workItem from="1703338508898" duration="307000" />
       <workItem from="1703339196454" duration="15000" />
       <workItem from="1703493878704" duration="1248000" />
-      <workItem from="1703500039206" duration="10886000" />
+      <workItem from="1703500039206" duration="12961000" />
     </task>
     <task id="LOCAL-00001" summary="first1">
       <created>1702731332679</created>
@@ -189,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703551665578</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="p1">
+      <created>1703551817098</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703551817098</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,8 +229,8 @@
     <MESSAGE value="fff" />
     <MESSAGE value="ok" />
     <MESSAGE value="last com" />
-    <MESSAGE value="p1" />
     <MESSAGE value="p" />
-    <option name="LAST_COMMIT_MESSAGE" value="p" />
+    <MESSAGE value="p1" />
+    <option name="LAST_COMMIT_MESSAGE" value="p1" />
   </component>
 </project>
