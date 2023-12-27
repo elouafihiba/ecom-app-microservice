@@ -4,24 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccddc394-992e-400c-8e94-f351efc8bcc8" name="Changes" comment="p2">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_11_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_11_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_hateoas_2_7_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_3_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_3_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/service/CustomerRestClientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/service/InventoryRestClientService.java" afterDir="false" />
+    <list default="true" id="ccddc394-992e-400c-8e94-f351efc8bcc8" name="Changes" comment="v2">
+      <change afterPath="$PROJECT_DIR$/captures/img_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/captures/img_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/captures/img_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/web/OrderRestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom-emsi/config-repo/order-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-emsi/config-repo/order-service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/OrderServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/OrderServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/repositories/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/repositories/OrderRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/entities/ProductItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/entities/ProductItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/service/InventoryRestClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/org/iir/orderservice/service/InventoryRestClientService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -44,7 +37,7 @@
         <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ecom-emsi/config-repo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -97,7 +90,7 @@
       <recent name="org.iir.orderservice.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.CustomerServiceApplication">
+  <component name="RunManager" selected="Spring Boot.OrderServiceApplication">
     <configuration name="rest-api_6 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_6.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -169,7 +162,7 @@
       <workItem from="1703338508898" duration="307000" />
       <workItem from="1703339196454" duration="15000" />
       <workItem from="1703493878704" duration="1248000" />
-      <workItem from="1703500039206" duration="23252000" />
+      <workItem from="1703500039206" duration="26875000" />
     </task>
     <task id="LOCAL-00001" summary="first1">
       <created>1702731332679</created>
@@ -241,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703556979656</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="v2">
+      <created>1703640043786</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703640043786</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +271,7 @@
     <MESSAGE value="p" />
     <MESSAGE value="p1" />
     <MESSAGE value="p2" />
-    <option name="LAST_COMMIT_MESSAGE" value="p2" />
+    <MESSAGE value="v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2" />
   </component>
 </project>

@@ -15,7 +15,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.context.annotation.Bean;
 
-import java.util.Collection;
 import java.util.Date;
 import java.util.List;
 import java.util.Random;

@@ -59,6 +59,13 @@ Créer une application de e-commerce basée sur les micro services :
 - liste des produits avec projection:
 ![sc](./captures/img_19.png)
 
+# Configuration dynamique de Order-service:
+![sc](./captures/img_21.png)
+- liste des commandes par client et produit:
+![sc](./captures/img_22.png)
+- Affichage d'une commande par client:
+![sc](./captures/img_23.png)
+
 
 
 
