@@ -63,7 +63,7 @@ Créer une application de e-commerce basée sur les micro services :
 ![sc](./captures/img_21.png)
 - liste des commandes par client et produit:
 ![sc](./captures/img_22.png)
-- Affichage d'une commande par client:
+- Affichage d'une commande compète(client,produit):
 ![sc](./captures/img_23.png)
 
 
