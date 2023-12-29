@@ -66,6 +66,21 @@ Créer une application de e-commerce basée sur les micro services :
 - Affichage d'une commande compète(client,produit):
 ![sc](./captures/img_23.png)
 
+7. Configuration de Billing Service:
+# avec consul config:
+- Creation d'un repertoire config billing-service:
+![sc](./captures/img_28.png)
+
+![sc](./captures/img_25.png)
+
+![sc](./captures/img_24.png)
+
+![sc](./captures/img_26.png)
+
+![sc](./captures/img_27.png)
+
+
+# avec Vault:
 
 
 
