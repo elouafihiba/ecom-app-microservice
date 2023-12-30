@@ -12,6 +12,9 @@ Créer une application de e-commerce basée sur les micro services :
 ![sc](./captures/img.png)
 # screens
 ## On Commence par la Configuration du service config:
+### consul cmd:
+- ipconfig
+- consul agent -server -bootstrap-expect=1 -data-dir=consul-data -ui -bind=@
 ![sc](./captures/img_8.png)
 ![sc](./captures/img_9.png)
 
@@ -79,8 +82,14 @@ Créer une application de e-commerce basée sur les micro services :
 
 ![sc](./captures/img_27.png)
 
-
 # avec Vault:
+#### vault command:
+- vault server -dev
+-  set VAULT_ADDR=http://127.0.0.1:8200
+- vault kv put secret/billing-service user.username=hiba user.pssword=123456
+- vault kv get secret/billing-service
+
+
 
 
 
