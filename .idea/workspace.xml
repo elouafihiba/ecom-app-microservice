@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ccddc394-992e-400c-8e94-f351efc8bcc8" name="Changes" comment="consul-conf">
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_2_3.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_2_4.xml" afterDir="false" />
@@ -18,6 +19,12 @@
       <change beforePath="$PROJECT_DIR$/billing/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/billing/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/billing/src/main/java/org/iir/billing/ConsulConfigRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing/src/main/java/org/iir/billing/ConsulConfigRestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/billing/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/billing/src/main/resources/application.properties" afterDir="false" />
+=======
+    <list default="true" id="ccddc394-992e-400c-8e94-f351efc8bcc8" name="Changes" comment="billing">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing/src/main/java/org/iir/billing/BillingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing/src/main/java/org/iir/billing/BillingApplication.java" afterDir="false" />
+>>>>>>> 9241bdb85dc27be820cae3b64f7531bd91f78df0
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +87,8 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;6392c60109fecff80e8bec72285e6caa&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;18e00fa4bbf95c3f505e15142afc43d0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -179,11 +186,20 @@
       <workItem from="1703701302732" duration="1404000" />
       <workItem from="1703797347036" duration="584000" />
       <workItem from="1703798438554" duration="3233000" />
+<<<<<<< HEAD
       <workItem from="1703844528008" duration="8118000" />
       <workItem from="1703876153329" duration="3501000" />
       <workItem from="1703890859582" duration="8000" />
       <workItem from="1703921525866" duration="1066000" />
       <workItem from="1703923063447" duration="9192000" />
+=======
+      <workItem from="1703844528008" duration="3920000" />
+      <workItem from="1703890897829" duration="505000" />
+      <workItem from="1703921299245" duration="931000" />
+      <workItem from="1703922599882" duration="300000" />
+      <workItem from="1703922985494" duration="60000" />
+      <workItem from="1703926632072" duration="7000" />
+>>>>>>> 9241bdb85dc27be820cae3b64f7531bd91f78df0
     </task>
     <task id="LOCAL-00001" summary="first1">
       <created>1702731332679</created>
