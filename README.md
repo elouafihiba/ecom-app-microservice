@@ -93,6 +93,9 @@ Créer une application de e-commerce basée sur les micro services :
 
 ![sc](./captures/img_29.png)
 
+![sc](./captures/img_31.png)
+
+![sc](./captures/img_32.png)
 
 
 

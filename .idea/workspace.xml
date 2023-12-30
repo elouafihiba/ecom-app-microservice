@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccddc394-992e-400c-8e94-f351efc8bcc8" name="Changes" comment="v">
-      <change afterPath="$PROJECT_DIR$/captures/img_29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/captures/img_30.png" afterDir="false" />
+    <list default="true" id="ccddc394-992e-400c-8e94-f351efc8bcc8" name="Changes" comment="v4">
+      <change afterPath="$PROJECT_DIR$/captures/img_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/captures/img_32.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing/src/main/java/org/iir/billing/BillingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing/src/main/java/org/iir/billing/BillingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/billing/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "spring.configuration.checksum": "18e00fa4bbf95c3f505e15142afc43d0",
+    "spring.configuration.checksum": "6392c60109fecff80e8bec72285e6caa",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -86,7 +86,7 @@
       <recent name="org.iir.orderservice.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.BillingApplication">
+  <component name="RunManager" selected="Spring Boot.CustomerServiceApplication">
     <configuration name="rest-api_6 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_6.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -176,6 +176,7 @@
       <workItem from="1703922599882" duration="300000" />
       <workItem from="1703922985494" duration="60000" />
       <workItem from="1703926632072" duration="50000" />
+      <workItem from="1703949182941" duration="1967000" />
     </task>
     <task id="LOCAL-00001" summary="first1">
       <created>1702731332679</created>
@@ -275,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703926666492</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="v4">
+      <created>1703940964117</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1703940964117</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,6 +317,7 @@
     <MESSAGE value="v2" />
     <MESSAGE value="billing" />
     <MESSAGE value="v" />
-    <option name="LAST_COMMIT_MESSAGE" value="v" />
+    <MESSAGE value="v4" />
+    <option name="LAST_COMMIT_MESSAGE" value="v4" />
   </component>
 </project>
