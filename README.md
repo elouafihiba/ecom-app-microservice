@@ -89,6 +89,10 @@ Créer une application de e-commerce basée sur les micro services :
 - vault kv put secret/billing-service user.username=hiba user.pssword=123456
 - vault kv get secret/billing-service
 
+![sc](./captures/img_30.png)
+
+![sc](./captures/img_29.png)
+
 
 
 
