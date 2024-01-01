@@ -97,6 +97,21 @@ Créer une application de e-commerce basée sur les micro services :
 
 ![sc](./captures/img_32.png)
 
+7. Frontend Web avec Angular:
+###### Run app: ng serve
+###### Installing bootstrap:  npm install -save bootstrap bootstrap-icons
+###### Add this to "angular.json" :
+-  "node_modules/bootstrap/dist/css/bootstrap.min.css"
+-  "node_modules/bootstrap/dist/js/bootstrap.bundle.js"
+
+# Screens:
+- liste des produits:
+  ![sc](./captures/ang1.png)
+
+- liste des clients:
+  ![sc](./captures/ang3.png)
+
+
 
 
 
