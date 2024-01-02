@@ -3,22 +3,22 @@ import {HttpClient} from "@angular/common/http";
 import {ActivatedRoute, Router} from "@angular/router";
 
 @Component({
-  selector: 'app-orders',
-  templateUrl: './orders.component.html',
-  styleUrl: './orders.component.css'
+  selector: 'app-order-details',
+  templateUrl: './order-details.component.html',
+  styleUrl: './order-details.component.css'
 })
-export class OrdersComponent {
-  orders : any;
-  customerId! : number;
+export class OrderDetailsComponent {
+  orderDetails : any;
+  orderId! : number;
   constructor(private http:HttpClient, private router : Router, private route : ActivatedRoute) {
-    this.customerId=route.snapshot.params['customerId'];
+    this.orderId=route.snapshot.params['orderId'];
   }
 
   ngOnInit(): void {
-    this.http.get("http://localhost:9999/order-service/orders/search/byCustomerId?&projection=fullOrder&customerId="+this.customerId)
+    this.http.get("http://localhost:9999/order-service/fullOrder/"+this.orderId)
       .subscribe({
         next : (data) =>{
-          this.orders=data;
+          this.orderDetails=data;
         },
         error:(err)=>{
 
@@ -30,4 +30,5 @@ export class OrdersComponent {
   getOrderDetails(o: any) {
     this.router.navigateByUrl("/order-details/"+o.id);
   }
+
 }
